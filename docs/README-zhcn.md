@@ -189,6 +189,10 @@ $ standard "src/util/**/*.js" "test/**/*.js"
 [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/nodesource.png>](https://nodesource.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/greenkeeper.png>](https://greenkeeper.io) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/karma.png>](https://karma-runner.github.io) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/taser.png>](https://www.taser.com) |
 |---|---|---|---|
 
+[<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/actionhero.png>](https://www.actionherojs.com) |
+
+|---|---|---|---|---|
+
 除公司组织外，[很多个人](https://raw.githubusercontent.com/feross/standard-packages/master/all.json)也在项目中使用，这里就不一一罗列了。
 
 并且 `standard` 在 GitHub 的[代码检查类工具](https://github.com/showcases/clean-code-linters) 展示列表中也排名第一。
@@ -507,7 +511,7 @@ $ standard --plugin html '**/*.html'
 
 ```sh
 #!/bin/sh
-# 确保将要提交的所有 JavaScript 代码通过 standard 规范的检查 
+# 确保将要提交的所有 JavaScript 代码通过 standard 规范的检查
 git diff --name-only --cached --relative | grep '\.jsx\?$' | xargs standard
 if [ $? -ne 0 ]; then exit 1; fi
 ```

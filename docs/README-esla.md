@@ -79,7 +79,7 @@ que usan `standard`!
   - [Instalación](#instalación)
   - [Uso](#uso)
   - [Lo que podrías hacer si eres inteligente](#lo-que-podrías-hacer-si-eres-inteligente)
-  
+
 - FAQ
   - [¿Por qué debería usar JavaScript Standard Style?](#por-qué-deberia-usar-javascript-standard-style)
   - [¿Quién usa JavaScript Standard Style?](#quién-usa-javascript-standard-style)
@@ -205,6 +205,10 @@ Un montón de gente!
 |---|---|---|---|---|
 
 [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/nodesource.png>](https://nodesource.com) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/greenkeeper.png>](https://greenkeeper.io) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/karma.png>](https://karma-runner.github.io) | [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/taser.png>](https://www.taser.com) |
+|---|---|---|---|---|
+
+[<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/actionhero.png>](https://www.actionherojs.com) |
+
 |---|---|---|---|---|
 
 Adicionalmente a compañías, muchos miembros de la comunidad usan `standard` en modulos que son
