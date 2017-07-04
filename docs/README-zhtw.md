@@ -184,7 +184,6 @@ JavaScript Standard Style 的美來自於它的簡單，沒有人想要在每個
 |---|---|---|---|---|
 
 [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/actionhero.png>](https://www.actionherojs.com) |
-
 |---|---|---|---|---|
 
 除了公司之外，非常多的社群也在套件中採用了 `standard` [因為太多了](https://raw.githubusercontent.com/feross/standard-packages/master/all.json) 無法在此一一列舉。

@@ -213,7 +213,6 @@ Lots of folks!
 |---|---|---|---|---|
 
 [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/actionhero.png>](https://www.actionherojs.com) |
-
 |---|---|---|---|---|
 
 In addition to companies, many community members use `standard` on packages that

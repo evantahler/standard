@@ -208,7 +208,6 @@ Un montón de gente!
 |---|---|---|---|---|
 
 [<img width=150 src=https://cdn.rawgit.com/feross/standard/master/docs/logos/actionhero.png>](https://www.actionherojs.com) |
-
 |---|---|---|---|---|
 
 Adicionalmente a compañías, muchos miembros de la comunidad usan `standard` en modulos que son
